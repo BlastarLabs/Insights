@@ -1,7 +1,7 @@
 readme file
 
 
-this is my learning file bro
+this is my learning file bro!
 
 
 # Proje Adı
