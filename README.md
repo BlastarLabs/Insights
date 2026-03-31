@@ -26,3 +26,12 @@ Proje geliştirme ve test amaçlı kullanılabilir.
 
 
 add usage section
+
+
+## Teknolojiler
+
+- Git
+- GitHub
+
+
+add technologies section
