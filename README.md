@@ -17,3 +17,12 @@ Bu repo proje dosyalarını ve geliştirme notlarını içerir.
 
 
 add project description
+
+
+
+## Kullanım
+
+Proje geliştirme ve test amaçlı kullanılabilir.
+
+
+add usage section
