@@ -6,7 +6,7 @@ this is my learning file bro!
 
 # Proje Adı
 
-Bu proje deneme amaçlı oluşturulmuştur.
+Bu proje deneme amaçlı oluşturulmuştur bilginize
 
 add initial README
 
